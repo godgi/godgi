@@ -4,7 +4,7 @@
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board: Education** | 2015. 3 ~ 2016.2(중퇴)  | Department of Civil Engineering | **Kyuong Hee University** |
+| **:mortar_board: Education** | 2015. 3 ~ 2016.2(중퇴)  | Department of Civil Engineering | **Kyung Hee University** |
 | **:mortar_board: Education** | 2016. 3 ~  | Department of Mechanical, Robotics and Energy Engineering | **Dongguk University** |
 | **Millitary service** | 2017. 7 ~ 2019. 3 | 만기 전역 | **:oncoming_police_car:의무 경찰** |
 | **External activities** | 2020. 4.22 ~ 2020. 11.25 | 8기 과정 | **멋쟁이 사자처럼** |
